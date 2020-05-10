@@ -1,4 +1,4 @@
-Locales ['en'] = {
+Locales ['tr'] = {
   ['writingcontract'] = '%s plakası için kontrat yazılıyor.',
   ['soldvehicle'] = 'Aracı sicil numarasıyla sattınız. ~r~%s~s~',
   ['boughtvehicle'] = 'Aracı sicil numarasıyla satın aldınız. ~g~%s~s~',
